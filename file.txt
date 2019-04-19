@@ -1,0 +1,7 @@
+<ROUTINE V-$ID ()
+	 <TELL "Interpreter ">
+	 <PRINTN <GETB 0 30>>
+	 <TELL " Version ">
+	 <PRINTC <GETB 0 31>>
+	 <CRLF>
+	 <RTRUE>>
